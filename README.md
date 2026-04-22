@@ -11,5 +11,3 @@ Hi! My name is Anyssa, a Brazilian software developer with a Bachelor's degree i
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AnyssaAndrade&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-![hippo](https://giphy.com/gifs/ign-describe-plans-13HBDT4QSTpveU)
